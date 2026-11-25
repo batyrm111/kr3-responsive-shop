@@ -43,8 +43,6 @@
 ## Lighthouse
 Проверить страницы `index.html`, `catalog.html` и `order.html` в Lighthouse, выбрать Accessibility и сохранить скриншот/отчёт в папку `lighthouse/`. **Отчёт не приложен автоматически — проверку необходимо провести в браузере.**
 
-## GitHub Pages
-Для публикации: Settings → Pages → Deploy from branch → `main` → `/ (root)`. После публикации добавьте URL в этот README.
 
 Автор: Маммедов Батыр
 Группа: ЭФБО-13-25
